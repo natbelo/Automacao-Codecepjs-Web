@@ -2,6 +2,9 @@
 
 ## Descrição do Projeto
 
+<br> Projeto de automação de testes para web com webDriver utilizando a aplicação https://demo.automationtesting.in/ .
+<br>
+
 ### Instalando as dependências
 
 ```
@@ -18,4 +21,4 @@ npm install
 npx codeceptjs run --steps
 ```
 
-Autor: Natália Belo
+<br> Autor: Natália Belo
